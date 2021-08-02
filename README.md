@@ -1,4 +1,4 @@
-Love this project [[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M45JNFX)]
+Love this project [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M45JNFX)
 # Ionic Angular Conference Application
 
 This application is purely a kitchen-sink demo of the Ionic Framework and Angular.
